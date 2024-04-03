@@ -1,16 +1,29 @@
-# calculo_carro
+<h1 align="center"> ⛽ - Calculo de Etanol e Gasolina </h1>
 
-A new Flutter project.
+<br>
 
-## Getting Started
+<div>
+<h2 align="center"> Sobre </h2>
+<p align="center"> O foco principal deste projeto é calcular para o usuário <br>qual tipo de combustível é mais vantajoso,
+  levando em consideração o preço de ambos.</p>
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+<img src="https://github.com/thluc/CalculoDeEtanolEGasolina/assets/100222499/e046e6d2-95ea-4888-a9a2-87c44f1c39c2"
+width="220" height="330">
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2 align="center"> 🛠 Ferramentas Utilizadas: </h2>
+<p align="center"> • Flutter <br> • Visual Studio Code </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2 align="center">👨‍💻 - Desenvolvedor</h2>
+        <p><a href='https://github.com/thluc'>Thiago dos Santos</a></p>
+</div>
+
